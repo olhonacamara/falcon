@@ -5,13 +5,14 @@ pdfreader=PyPDF2.PdfFileReader(file)
 numPages = pdfreader.getNumPages()
 print(numPages)
 
-newfile=open('test.txt', 'w')
+newTxtFile=open('test.doc', 'w')
+
 
 count = 0
 while count < numPages:
     pageobj=pdfreader.getPage(count)
-    newfile.write(pageobj.extractText().encode('utf-8').strip())
+    newTxtFile.write(pageobj.extractText().encode('utf-8').strip())
     count += 1
 
 file.close()
-newfile.close()
+newTxtFile.close()
