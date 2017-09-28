@@ -1,11 +1,11 @@
 import PyPDF2
-file=open('sggp_novembro_2016.pdf', 'rb')
+file=open('sggpJaneiro2017.pdf', 'rb')
 pdfreader=PyPDF2.PdfFileReader(file)
 
 numPages = pdfreader.getNumPages()
 print(numPages)
 
-newTxtFile=open('test.doc', 'w')
+newTxtFile=open('sggpJaneiro2017.txt', 'w')
 
 
 count = 0
