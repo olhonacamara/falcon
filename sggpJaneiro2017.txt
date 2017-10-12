@@ -2,8 +2,8 @@ CÂMARA MUNICIPAL DE FLORIANÓPOLIS
 SISTEMAS DE GERENCIAMENTO DO GABINETE PARLAMENTAR
 SGGP
 Período :
-01/01/2017
-a01/02/2017
+01/08/2017
+a31/08/2017
 Balancete Dos Vereadores
 Vereador :
 001
@@ -12,16 +12,16 @@ Conta
 Anterior
 Acumulado
 Mês
-  2,300.00
+      0.00
 1.00
 CREDITOS
+ 16,100.00
+   16,100.00
       0.00
-    2,300.00
-  2,300.00
 1.01
 COTA MENSAL
-      0.00
-    2,300.00
+ 16,100.00
+   16,100.00
       0.00
 1.02
 OUTROS
@@ -32,11 +32,11 @@ OUTROS
 Credito ano anterior
       0.00
         0.00
-    447.22
+    354.84
 2.00
 DEBITOS
-      0.00
-      447.22
+  6,011.38
+    6,366.22
       0.00
 2.01
 Bolsa / Estágio
@@ -47,26 +47,26 @@ Bolsa / Estágio
 Passagens
       0.00
         0.00
-      0.00
+      2.29
 2.03
 Telefone Fixo (GVT)
-      0.00
-        0.00
-      0.00
+     16.33
+       18.62
+     55.80
 2.04
 Xerox
-      0.00
-        0.00
+    387.70
+      443.50
       0.00
 2.05
 Correio
       0.00
         0.00
-    115.51
+    201.94
 2.06
 Material de Expediente
-      0.00
-      115.51
+    577.44
+      779.38
       0.00
 2.07
 Diárias
@@ -77,26 +77,26 @@ Diárias
 Gratificação
       0.00
         0.00
-    130.00
+      0.00
 2.09
 OUTROS
-      0.00
-      130.00
+    509.34
+      509.34
       0.00
 2.10
 Selos
-      0.00
-        0.00
+  3,750.00
+    3,750.00
       0.00
 2.11
 Serviços
       0.00
         0.00
-    201.71
+     94.81
 2.12
 Telefone - TIM
-      0.00
-      201.71
+    770.57
+      865.38
       0.00
 2.13
 Cursos
@@ -108,20 +108,20 @@ Carimbos
       0.00
         0.00
 Saldo Anterior :
-          0.00
+     10,088.62
 Saldo Acumulado:
-      1,852.78
+      9,733.78
 Créditos no Mês :
 Resumo
-      2,300.00
+          0.00
 Débitos no Mês :
-        447.22
+        354.84
 AltoQi Tecnologia em  Informática LtdaCÂMARA MUNICIPAL DE FLORIANÓPOLIS
 SISTEMAS DE GERENCIAMENTO DO GABINETE PARLAMENTAR
 SGGP
 Período :
-01/01/2017
-a01/02/2017
+01/08/2017
+a31/08/2017
 Balancete Dos Vereadores
       0.00
 2.15
@@ -139,20 +139,20 @@ Jornal / Revista
       0.00
         0.00
 Saldo Anterior :
-          0.00
+     10,088.62
 Saldo Acumulado:
-      1,852.78
+      9,733.78
 Créditos no Mês :
 Resumo
-      2,300.00
+          0.00
 Débitos no Mês :
-        447.22
+        354.84
 AltoQi Tecnologia em  Informática LtdaCÂMARA MUNICIPAL DE FLORIANÓPOLIS
 SISTEMAS DE GERENCIAMENTO DO GABINETE PARLAMENTAR
 SGGP
 Período :
-01/01/2017
-a01/02/2017
+01/08/2017
+a31/08/2017
 Balancete Dos Vereadores
 Vereador :
 002
@@ -161,16 +161,16 @@ Conta
 Anterior
 Acumulado
 Mês
-  2,300.00
+      0.00
 1.00
 CREDITOS
+ 16,100.00
+   16,100.00
       0.00
-    2,300.00
-  2,300.00
 1.01
 COTA MENSAL
-      0.00
-    2,300.00
+ 16,100.00
+   16,100.00
       0.00
 1.02
 OUTROS
@@ -181,11 +181,11 @@ OUTROS
 Credito ano anterior
       0.00
         0.00
-    349.64
+     70.21
 2.00
 DEBITOS
-      0.00
-      349.64
+    992.75
+    1,062.96
       0.00
 2.01
 Bolsa / Estágio
@@ -196,26 +196,26 @@ Bolsa / Estágio
 Passagens
       0.00
         0.00
-      0.00
+      9.52
 2.03
 Telefone Fixo (GVT)
-      0.00
-        0.00
-      0.00
+    180.54
+      190.06
+      1.10
 2.04
 Xerox
-      0.00
-        0.00
+     22.00
+       23.10
       0.00
 2.05
 Correio
       0.00
         0.00
-    349.64
+     59.59
 2.06
 Material de Expediente
-      0.00
-      349.64
+    790.21
+      849.80
       0.00
 2.07
 Diárias
@@ -257,20 +257,20 @@ Carimbos
       0.00
         0.00
 Saldo Anterior :
-          0.00
+     15,107.25
 Saldo Acumulado:
-      1,950.36
+     15,037.04
 Créditos no Mês :
 Resumo
-      2,300.00
+          0.00
 Débitos no Mês :
-        349.64
+         70.21
 AltoQi Tecnologia em  Informática LtdaCÂMARA MUNICIPAL DE FLORIANÓPOLIS
 SISTEMAS DE GERENCIAMENTO DO GABINETE PARLAMENTAR
 SGGP
 Período :
-01/01/2017
-a01/02/2017
+01/08/2017
+a31/08/2017
 Balancete Dos Vereadores
       0.00
 2.15
@@ -288,20 +288,20 @@ Jornal / Revista
       0.00
         0.00
 Saldo Anterior :
-          0.00
+     15,107.25
 Saldo Acumulado:
-      1,950.36
+     15,037.04
 Créditos no Mês :
 Resumo
-      2,300.00
+          0.00
 Débitos no Mês :
-        349.64
+         70.21
 AltoQi Tecnologia em  Informática LtdaCÂMARA MUNICIPAL DE FLORIANÓPOLIS
 SISTEMAS DE GERENCIAMENTO DO GABINETE PARLAMENTAR
 SGGP
 Período :
-01/01/2017
-a01/02/2017
+01/08/2017
+a31/08/2017
 Balancete Dos Vereadores
 Vereador :
 003
@@ -310,16 +310,16 @@ Conta
 Anterior
 Acumulado
 Mês
-  2,300.00
+      0.00
 1.00
 CREDITOS
+ 11,500.00
+   11,500.00
       0.00
-    2,300.00
-  2,300.00
 1.01
 COTA MENSAL
-      0.00
-    2,300.00
+  9,200.00
+    9,200.00
       0.00
 1.02
 OUTROS
@@ -333,8 +333,8 @@ Credito ano anterior
       0.00
 2.00
 DEBITOS
-      0.00
-        0.00
+    293.67
+      293.67
       0.00
 2.01
 Bolsa / Estágio
@@ -348,13 +348,13 @@ Passagens
       0.00
 2.03
 Telefone Fixo (GVT)
-      0.00
-        0.00
+     26.43
+       26.43
       0.00
 2.04
 Xerox
-      0.00
-        0.00
+     19.10
+       19.10
       0.00
 2.05
 Correio
@@ -363,8 +363,8 @@ Correio
       0.00
 2.06
 Material de Expediente
-      0.00
-        0.00
+    248.14
+      248.14
       0.00
 2.07
 Diárias
@@ -406,20 +406,20 @@ Carimbos
       0.00
         0.00
 Saldo Anterior :
-          0.00
+     11,206.33
 Saldo Acumulado:
-      2,300.00
+     11,206.33
 Créditos no Mês :
 Resumo
-      2,300.00
+          0.00
 Débitos no Mês :
           0.00
 AltoQi Tecnologia em  Informática LtdaCÂMARA MUNICIPAL DE FLORIANÓPOLIS
 SISTEMAS DE GERENCIAMENTO DO GABINETE PARLAMENTAR
 SGGP
 Período :
-01/01/2017
-a01/02/2017
+01/08/2017
+a31/08/2017
 Balancete Dos Vereadores
       0.00
 2.15
@@ -437,20 +437,20 @@ Jornal / Revista
       0.00
         0.00
 Saldo Anterior :
-          0.00
+     11,206.33
 Saldo Acumulado:
-      2,300.00
+     11,206.33
 Créditos no Mês :
 Resumo
-      2,300.00
+          0.00
 Débitos no Mês :
           0.00
 AltoQi Tecnologia em  Informática LtdaCÂMARA MUNICIPAL DE FLORIANÓPOLIS
 SISTEMAS DE GERENCIAMENTO DO GABINETE PARLAMENTAR
 SGGP
 Período :
-01/01/2017
-a01/02/2017
+01/08/2017
+a31/08/2017
 Balancete Dos Vereadores
 Vereador :
 004
@@ -459,16 +459,16 @@ Conta
 Anterior
 Acumulado
 Mês
-  2,300.00
+      0.00
 1.00
 CREDITOS
+ 16,100.00
+   16,100.00
       0.00
-    2,300.00
-  2,300.00
 1.01
 COTA MENSAL
-      0.00
-    2,300.00
+ 16,100.00
+   16,100.00
       0.00
 1.02
 OUTROS
@@ -479,11 +479,11 @@ OUTROS
 Credito ano anterior
       0.00
         0.00
-  7,143.19
+    150.78
 2.00
 DEBITOS
-      0.00
-    7,143.19
+  8,006.04
+    8,156.82
       0.00
 2.01
 Bolsa / Estágio
@@ -494,26 +494,26 @@ Bolsa / Estágio
 Passagens
       0.00
         0.00
-      0.00
+      4.44
 2.03
 Telefone Fixo (GVT)
-      0.00
-        0.00
+    108.75
+      113.19
       0.00
 2.04
 Xerox
-      0.00
-        0.00
+      1.30
+        1.30
       0.00
 2.05
 Correio
       0.00
         0.00
-  1,393.19
+    146.34
 2.06
 Material de Expediente
-      0.00
-    1,393.19
+  2,145.99
+    2,292.33
       0.00
 2.07
 Diárias
@@ -529,10 +529,10 @@ Gratificação
 OUTROS
       0.00
         0.00
-  5,750.00
+      0.00
 2.10
 Selos
-      0.00
+  5,750.00
     5,750.00
       0.00
 2.11
@@ -555,20 +555,20 @@ Carimbos
       0.00
         0.00
 Saldo Anterior :
-          0.00
+      8,093.96
 Saldo Acumulado:
-     (4,843.19)
+      7,943.18
 Créditos no Mês :
 Resumo
-      2,300.00
+          0.00
 Débitos no Mês :
-      7,143.19
+        150.78
 AltoQi Tecnologia em  Informática LtdaCÂMARA MUNICIPAL DE FLORIANÓPOLIS
 SISTEMAS DE GERENCIAMENTO DO GABINETE PARLAMENTAR
 SGGP
 Período :
-01/01/2017
-a01/02/2017
+01/08/2017
+a31/08/2017
 Balancete Dos Vereadores
       0.00
 2.15
@@ -586,20 +586,20 @@ Jornal / Revista
       0.00
         0.00
 Saldo Anterior :
-          0.00
+      8,093.96
 Saldo Acumulado:
-     (4,843.19)
+      7,943.18
 Créditos no Mês :
 Resumo
-      2,300.00
+          0.00
 Débitos no Mês :
-      7,143.19
+        150.78
 AltoQi Tecnologia em  Informática LtdaCÂMARA MUNICIPAL DE FLORIANÓPOLIS
 SISTEMAS DE GERENCIAMENTO DO GABINETE PARLAMENTAR
 SGGP
 Período :
-01/01/2017
-a01/02/2017
+01/08/2017
+a31/08/2017
 Balancete Dos Vereadores
 Vereador :
 005
@@ -608,16 +608,16 @@ Conta
 Anterior
 Acumulado
 Mês
-  2,300.00
+      0.00
 1.00
 CREDITOS
+ 16,100.00
+   16,100.00
       0.00
-    2,300.00
-  2,300.00
 1.01
 COTA MENSAL
-      0.00
-    2,300.00
+ 16,100.00
+   16,100.00
       0.00
 1.02
 OUTROS
@@ -628,11 +628,11 @@ OUTROS
 Credito ano anterior
       0.00
         0.00
-     94.81
+  1,460.09
 2.00
 DEBITOS
-      0.00
-       94.81
+  2,250.07
+    3,710.16
       0.00
 2.01
 Bolsa / Estágio
@@ -643,26 +643,26 @@ Bolsa / Estágio
 Passagens
       0.00
         0.00
-      0.00
+      3.49
 2.03
 Telefone Fixo (GVT)
-      0.00
-        0.00
+     67.80
+       71.29
       0.00
 2.04
 Xerox
-      0.00
-        0.00
+      1.60
+        1.60
       0.00
 2.05
 Correio
       0.00
         0.00
-      0.00
+    206.60
 2.06
 Material de Expediente
-      0.00
-        0.00
+    835.86
+    1,042.46
       0.00
 2.07
 Diárias
@@ -678,20 +678,20 @@ Gratificação
 OUTROS
       0.00
         0.00
-      0.00
+  1,250.00
 2.10
 Selos
-      0.00
-        0.00
+  1,250.00
+    2,500.00
       0.00
 2.11
 Serviços
       0.00
         0.00
-     94.81
+      0.00
 2.12
 Telefone - TIM
-      0.00
+     94.81
        94.81
       0.00
 2.13
@@ -704,20 +704,20 @@ Carimbos
       0.00
         0.00
 Saldo Anterior :
-          0.00
+     13,849.93
 Saldo Acumulado:
-      2,205.19
+     12,389.84
 Créditos no Mês :
 Resumo
-      2,300.00
+          0.00
 Débitos no Mês :
-         94.81
+      1,460.09
 AltoQi Tecnologia em  Informática LtdaCÂMARA MUNICIPAL DE FLORIANÓPOLIS
 SISTEMAS DE GERENCIAMENTO DO GABINETE PARLAMENTAR
 SGGP
 Período :
-01/01/2017
-a01/02/2017
+01/08/2017
+a31/08/2017
 Balancete Dos Vereadores
       0.00
 2.15
@@ -735,20 +735,20 @@ Jornal / Revista
       0.00
         0.00
 Saldo Anterior :
-          0.00
+     13,849.93
 Saldo Acumulado:
-      2,205.19
+     12,389.84
 Créditos no Mês :
 Resumo
-      2,300.00
+          0.00
 Débitos no Mês :
-         94.81
+      1,460.09
 AltoQi Tecnologia em  Informática LtdaCÂMARA MUNICIPAL DE FLORIANÓPOLIS
 SISTEMAS DE GERENCIAMENTO DO GABINETE PARLAMENTAR
 SGGP
 Período :
-01/01/2017
-a01/02/2017
+01/08/2017
+a31/08/2017
 Balancete Dos Vereadores
 Vereador :
 006
@@ -757,16 +757,16 @@ Conta
 Anterior
 Acumulado
 Mês
-  2,300.00
+      0.00
 1.00
 CREDITOS
+ 16,100.00
+   16,100.00
       0.00
-    2,300.00
-  2,300.00
 1.01
 COTA MENSAL
-      0.00
-    2,300.00
+ 16,100.00
+   16,100.00
       0.00
 1.02
 OUTROS
@@ -777,11 +777,11 @@ OUTROS
 Credito ano anterior
       0.00
         0.00
-    228.12
+  2,692.80
 2.00
 DEBITOS
-      0.00
-      228.12
+  3,493.65
+    6,186.45
       0.00
 2.01
 Bolsa / Estágio
@@ -792,26 +792,26 @@ Bolsa / Estágio
 Passagens
       0.00
         0.00
-      0.00
+      8.50
 2.03
 Telefone Fixo (GVT)
-      0.00
-        0.00
-      0.00
+     86.62
+       95.12
+     11.50
 2.04
 Xerox
-      0.00
-        0.00
+     36.10
+       47.60
       0.00
 2.05
 Correio
       0.00
         0.00
-      3.00
+     77.99
 2.06
 Material de Expediente
-      0.00
-        3.00
+    567.52
+      645.51
       0.00
 2.07
 Diárias
@@ -822,26 +822,26 @@ Diárias
 Gratificação
       0.00
         0.00
-    122.68
+     94.81
 2.09
 OUTROS
-      0.00
-      122.68
-      0.00
+    691.54
+      786.35
+  2,500.00
 2.10
 Selos
-      0.00
-        0.00
+  1,725.00
+    4,225.00
       0.00
 2.11
 Serviços
       0.00
         0.00
-    102.44
+      0.00
 2.12
 Telefone - TIM
-      0.00
-      102.44
+    386.87
+      386.87
       0.00
 2.13
 Cursos
@@ -853,20 +853,20 @@ Carimbos
       0.00
         0.00
 Saldo Anterior :
-          0.00
+     12,606.35
 Saldo Acumulado:
-      2,071.88
+      9,913.55
 Créditos no Mês :
 Resumo
-      2,300.00
+          0.00
 Débitos no Mês :
-        228.12
+      2,692.80
 AltoQi Tecnologia em  Informática LtdaCÂMARA MUNICIPAL DE FLORIANÓPOLIS
 SISTEMAS DE GERENCIAMENTO DO GABINETE PARLAMENTAR
 SGGP
 Período :
-01/01/2017
-a01/02/2017
+01/08/2017
+a31/08/2017
 Balancete Dos Vereadores
       0.00
 2.15
@@ -884,20 +884,20 @@ Jornal / Revista
       0.00
         0.00
 Saldo Anterior :
-          0.00
+     12,606.35
 Saldo Acumulado:
-      2,071.88
+      9,913.55
 Créditos no Mês :
 Resumo
-      2,300.00
+          0.00
 Débitos no Mês :
-        228.12
+      2,692.80
 AltoQi Tecnologia em  Informática LtdaCÂMARA MUNICIPAL DE FLORIANÓPOLIS
 SISTEMAS DE GERENCIAMENTO DO GABINETE PARLAMENTAR
 SGGP
 Período :
-01/01/2017
-a01/02/2017
+01/08/2017
+a31/08/2017
 Balancete Dos Vereadores
 Vereador :
 007
@@ -906,16 +906,16 @@ Conta
 Anterior
 Acumulado
 Mês
-  2,300.00
+      0.00
 1.00
 CREDITOS
+ 16,100.00
+   16,100.00
       0.00
-    2,300.00
-  2,300.00
 1.01
 COTA MENSAL
-      0.00
-    2,300.00
+ 16,100.00
+   16,100.00
       0.00
 1.02
 OUTROS
@@ -926,11 +926,11 @@ OUTROS
 Credito ano anterior
       0.00
         0.00
-    303.60
+  2,843.91
 2.00
 DEBITOS
-      0.00
-      303.60
+  2,298.72
+    5,142.63
       0.00
 2.01
 Bolsa / Estágio
@@ -941,26 +941,26 @@ Bolsa / Estágio
 Passagens
       0.00
         0.00
-      0.00
+      5.30
 2.03
 Telefone Fixo (GVT)
-      0.00
-        0.00
-      0.00
+     44.50
+       49.80
+     12.10
 2.04
 Xerox
-      0.00
-        0.00
+     18.10
+       30.20
       0.00
 2.05
 Correio
       0.00
         0.00
-      0.00
+    136.89
 2.06
 Material de Expediente
-      0.00
-        0.00
+    794.80
+      931.69
       0.00
 2.07
 Diárias
@@ -971,26 +971,26 @@ Diárias
 Gratificação
       0.00
         0.00
-    103.21
+     94.81
 2.09
 OUTROS
-      0.00
-      103.21
-      0.00
+    672.07
+      766.88
+  2,500.00
 2.10
 Selos
       0.00
-        0.00
+    2,500.00
       0.00
 2.11
 Serviços
       0.00
         0.00
-    200.39
+     94.81
 2.12
 Telefone - TIM
-      0.00
-      200.39
+    769.25
+      864.06
       0.00
 2.13
 Cursos
@@ -1002,20 +1002,20 @@ Carimbos
       0.00
         0.00
 Saldo Anterior :
-          0.00
+     13,801.28
 Saldo Acumulado:
-      1,996.40
+     10,957.37
 Créditos no Mês :
 Resumo
-      2,300.00
+          0.00
 Débitos no Mês :
-        303.60
+      2,843.91
 AltoQi Tecnologia em  Informática LtdaCÂMARA MUNICIPAL DE FLORIANÓPOLIS
 SISTEMAS DE GERENCIAMENTO DO GABINETE PARLAMENTAR
 SGGP
 Período :
-01/01/2017
-a01/02/2017
+01/08/2017
+a31/08/2017
 Balancete Dos Vereadores
       0.00
 2.15
@@ -1033,20 +1033,20 @@ Jornal / Revista
       0.00
         0.00
 Saldo Anterior :
-          0.00
+     13,801.28
 Saldo Acumulado:
-      1,996.40
+     10,957.37
 Créditos no Mês :
 Resumo
-      2,300.00
+          0.00
 Débitos no Mês :
-        303.60
+      2,843.91
 AltoQi Tecnologia em  Informática LtdaCÂMARA MUNICIPAL DE FLORIANÓPOLIS
 SISTEMAS DE GERENCIAMENTO DO GABINETE PARLAMENTAR
 SGGP
 Período :
-01/01/2017
-a01/02/2017
+01/08/2017
+a31/08/2017
 Balancete Dos Vereadores
 Vereador :
 008
@@ -1055,16 +1055,16 @@ Conta
 Anterior
 Acumulado
 Mês
-  2,300.00
+      0.00
 1.00
 CREDITOS
+ 16,100.00
+   16,100.00
       0.00
-    2,300.00
-  2,300.00
 1.01
 COTA MENSAL
-      0.00
-    2,300.00
+ 16,100.00
+   16,100.00
       0.00
 1.02
 OUTROS
@@ -1075,11 +1075,11 @@ OUTROS
 Credito ano anterior
       0.00
         0.00
-    244.34
+     75.14
 2.00
 DEBITOS
-      0.00
-      244.34
+    672.59
+      747.73
       0.00
 2.01
 Bolsa / Estágio
@@ -1090,26 +1090,26 @@ Bolsa / Estágio
 Passagens
       0.00
         0.00
-      0.00
+      1.60
 2.03
 Telefone Fixo (GVT)
-      0.00
-        0.00
+     52.57
+       54.17
       0.00
 2.04
 Xerox
-      0.00
-        0.00
+      4.20
+        4.20
       0.00
 2.05
 Correio
       0.00
         0.00
-    244.34
+     73.54
 2.06
 Material de Expediente
-      0.00
-      244.34
+    497.32
+      570.86
       0.00
 2.07
 Diárias
@@ -1128,8 +1128,8 @@ OUTROS
       0.00
 2.10
 Selos
-      0.00
-        0.00
+    104.50
+      104.50
       0.00
 2.11
 Serviços
@@ -1148,23 +1148,23 @@ Cursos
       0.00
 2.14
 Carimbos
-      0.00
-        0.00
+     14.00
+       14.00
 Saldo Anterior :
-          0.00
+     15,427.41
 Saldo Acumulado:
-      2,055.66
+     15,352.27
 Créditos no Mês :
 Resumo
-      2,300.00
+          0.00
 Débitos no Mês :
-        244.34
+         75.14
 AltoQi Tecnologia em  Informática LtdaCÂMARA MUNICIPAL DE FLORIANÓPOLIS
 SISTEMAS DE GERENCIAMENTO DO GABINETE PARLAMENTAR
 SGGP
 Período :
-01/01/2017
-a01/02/2017
+01/08/2017
+a31/08/2017
 Balancete Dos Vereadores
       0.00
 2.15
@@ -1182,20 +1182,20 @@ Jornal / Revista
       0.00
         0.00
 Saldo Anterior :
-          0.00
+     15,427.41
 Saldo Acumulado:
-      2,055.66
+     15,352.27
 Créditos no Mês :
 Resumo
-      2,300.00
+          0.00
 Débitos no Mês :
-        244.34
+         75.14
 AltoQi Tecnologia em  Informática LtdaCÂMARA MUNICIPAL DE FLORIANÓPOLIS
 SISTEMAS DE GERENCIAMENTO DO GABINETE PARLAMENTAR
 SGGP
 Período :
-01/01/2017
-a01/02/2017
+01/08/2017
+a31/08/2017
 Balancete Dos Vereadores
 Vereador :
 009
@@ -1204,16 +1204,16 @@ Conta
 Anterior
 Acumulado
 Mês
-  2,300.00
+      0.00
 1.00
 CREDITOS
+ 16,100.00
+   16,100.00
       0.00
-    2,300.00
-  2,300.00
 1.01
 COTA MENSAL
-      0.00
-    2,300.00
+ 16,100.00
+   16,100.00
       0.00
 1.02
 OUTROS
@@ -1224,11 +1224,11 @@ OUTROS
 Credito ano anterior
       0.00
         0.00
-    244.99
+    178.23
 2.00
 DEBITOS
-      0.00
-      244.99
+  1,275.12
+    1,453.35
       0.00
 2.01
 Bolsa / Estágio
@@ -1239,26 +1239,26 @@ Bolsa / Estágio
 Passagens
       0.00
         0.00
-      0.00
+     15.24
 2.03
 Telefone Fixo (GVT)
-      0.00
-        0.00
+    177.41
+      192.65
       0.00
 2.04
 Xerox
-      0.00
-        0.00
+     30.70
+       30.70
       0.00
 2.05
 Correio
       0.00
         0.00
-    244.99
+     68.18
 2.06
 Material de Expediente
-      0.00
-      244.99
+    498.15
+      566.33
       0.00
 2.07
 Diárias
@@ -1284,11 +1284,11 @@ Selos
 Serviços
       0.00
         0.00
-      0.00
+     94.81
 2.12
 Telefone - TIM
-      0.00
-        0.00
+    568.86
+      663.67
       0.00
 2.13
 Cursos
@@ -1300,20 +1300,20 @@ Carimbos
       0.00
         0.00
 Saldo Anterior :
-          0.00
+     14,824.88
 Saldo Acumulado:
-      2,055.01
+     14,646.65
 Créditos no Mês :
 Resumo
-      2,300.00
+          0.00
 Débitos no Mês :
-        244.99
+        178.23
 AltoQi Tecnologia em  Informática LtdaCÂMARA MUNICIPAL DE FLORIANÓPOLIS
 SISTEMAS DE GERENCIAMENTO DO GABINETE PARLAMENTAR
 SGGP
 Período :
-01/01/2017
-a01/02/2017
+01/08/2017
+a31/08/2017
 Balancete Dos Vereadores
       0.00
 2.15
@@ -1331,20 +1331,20 @@ Jornal / Revista
       0.00
         0.00
 Saldo Anterior :
-          0.00
+     14,824.88
 Saldo Acumulado:
-      2,055.01
+     14,646.65
 Créditos no Mês :
 Resumo
-      2,300.00
+          0.00
 Débitos no Mês :
-        244.99
+        178.23
 AltoQi Tecnologia em  Informática LtdaCÂMARA MUNICIPAL DE FLORIANÓPOLIS
 SISTEMAS DE GERENCIAMENTO DO GABINETE PARLAMENTAR
 SGGP
 Período :
-01/01/2017
-a01/02/2017
+01/08/2017
+a31/08/2017
 Balancete Dos Vereadores
 Vereador :
 010
@@ -1353,16 +1353,16 @@ Conta
 Anterior
 Acumulado
 Mês
-  2,300.00
+      0.00
 1.00
 CREDITOS
+ 16,100.00
+   16,100.00
       0.00
-    2,300.00
-  2,300.00
 1.01
 COTA MENSAL
-      0.00
-    2,300.00
+ 16,100.00
+   16,100.00
       0.00
 1.02
 OUTROS
@@ -1373,56 +1373,56 @@ OUTROS
 Credito ano anterior
       0.00
         0.00
-    340.83
+  3,804.56
 2.00
 DEBITOS
-      0.00
-      340.83
+  2,153.25
+    5,957.81
       0.00
 2.01
 Bolsa / Estágio
       0.00
         0.00
-      0.00
+  1,617.08
 2.02
 Passagens
       0.00
-        0.00
-      0.00
+    1,617.08
+      7.13
 2.03
 Telefone Fixo (GVT)
-      0.00
-        0.00
+     30.11
+       37.24
       0.00
 2.04
 Xerox
-      0.00
-        0.00
+     22.80
+       22.80
       0.00
 2.05
 Correio
       0.00
         0.00
-      0.00
+     49.95
 2.06
 Material de Expediente
-      0.00
-        0.00
-      0.00
+    621.79
+      671.74
+  1,940.78
 2.07
 Diárias
       0.00
-        0.00
+    1,940.78
       0.00
 2.08
 Gratificação
       0.00
         0.00
-    200.98
+     94.81
 2.09
 OUTROS
-      0.00
-      200.98
+    769.84
+      864.65
       0.00
 2.10
 Selos
@@ -1433,11 +1433,11 @@ Selos
 Serviços
       0.00
         0.00
-    139.85
+     94.81
 2.12
 Telefone - TIM
-      0.00
-      139.85
+    708.71
+      803.52
       0.00
 2.13
 Cursos
@@ -1449,20 +1449,20 @@ Carimbos
       0.00
         0.00
 Saldo Anterior :
-          0.00
+     13,946.75
 Saldo Acumulado:
-      1,959.17
+     10,142.19
 Créditos no Mês :
 Resumo
-      2,300.00
+          0.00
 Débitos no Mês :
-        340.83
+      3,804.56
 AltoQi Tecnologia em  Informática LtdaCÂMARA MUNICIPAL DE FLORIANÓPOLIS
 SISTEMAS DE GERENCIAMENTO DO GABINETE PARLAMENTAR
 SGGP
 Período :
-01/01/2017
-a01/02/2017
+01/08/2017
+a31/08/2017
 Balancete Dos Vereadores
       0.00
 2.15
@@ -1480,20 +1480,20 @@ Jornal / Revista
       0.00
         0.00
 Saldo Anterior :
-          0.00
+     13,946.75
 Saldo Acumulado:
-      1,959.17
+     10,142.19
 Créditos no Mês :
 Resumo
-      2,300.00
+          0.00
 Débitos no Mês :
-        340.83
+      3,804.56
 AltoQi Tecnologia em  Informática LtdaCÂMARA MUNICIPAL DE FLORIANÓPOLIS
 SISTEMAS DE GERENCIAMENTO DO GABINETE PARLAMENTAR
 SGGP
 Período :
-01/01/2017
-a01/02/2017
+01/08/2017
+a31/08/2017
 Balancete Dos Vereadores
 Vereador :
 011
@@ -1502,16 +1502,16 @@ Conta
 Anterior
 Acumulado
 Mês
-  2,300.00
+      0.00
 1.00
 CREDITOS
+ 16,100.00
+   16,100.00
       0.00
-    2,300.00
-  2,300.00
 1.01
 COTA MENSAL
-      0.00
-    2,300.00
+ 16,100.00
+   16,100.00
       0.00
 1.02
 OUTROS
@@ -1522,46 +1522,46 @@ OUTROS
 Credito ano anterior
       0.00
         0.00
-     50.15
+  5,536.55
 2.00
 DEBITOS
-      0.00
-       50.15
+  9,595.77
+   15,132.32
       0.00
 2.01
 Bolsa / Estágio
       0.00
         0.00
-      0.00
+  1,980.63
 2.02
 Passagens
       0.00
-        0.00
-      0.00
+    1,980.63
+      2.03
 2.03
 Telefone Fixo (GVT)
-      0.00
-        0.00
-      0.00
+     61.98
+       64.01
+      1.50
 2.04
 Xerox
-      0.00
-        0.00
+     53.80
+       55.30
       0.00
 2.05
 Correio
       0.00
         0.00
-     50.15
+    171.99
 2.06
 Material de Expediente
-      0.00
-       50.15
-      0.00
+  1,242.27
+    1,414.26
+  1,940.78
 2.07
 Diárias
       0.00
-        0.00
+    1,940.78
       0.00
 2.08
 Gratificação
@@ -1570,23 +1570,23 @@ Gratificação
       0.00
 2.09
 OUTROS
-      0.00
-        0.00
-      0.00
+    568.86
+      568.86
+  1,250.00
 2.10
 Selos
-      0.00
-        0.00
-      0.00
+  7,100.00
+    8,350.00
+     94.81
 2.11
 Serviços
       0.00
-        0.00
-      0.00
+       94.81
+     94.81
 2.12
 Telefone - TIM
-      0.00
-        0.00
+    568.86
+      663.67
       0.00
 2.13
 Cursos
@@ -1598,20 +1598,20 @@ Carimbos
       0.00
         0.00
 Saldo Anterior :
-          0.00
+      6,504.23
 Saldo Acumulado:
-      2,249.85
+        967.68
 Créditos no Mês :
 Resumo
-      2,300.00
+          0.00
 Débitos no Mês :
-         50.15
+      5,536.55
 AltoQi Tecnologia em  Informática LtdaCÂMARA MUNICIPAL DE FLORIANÓPOLIS
 SISTEMAS DE GERENCIAMENTO DO GABINETE PARLAMENTAR
 SGGP
 Período :
-01/01/2017
-a01/02/2017
+01/08/2017
+a31/08/2017
 Balancete Dos Vereadores
       0.00
 2.15
@@ -1629,20 +1629,20 @@ Jornal / Revista
       0.00
         0.00
 Saldo Anterior :
-          0.00
+      6,504.23
 Saldo Acumulado:
-      2,249.85
+        967.68
 Créditos no Mês :
 Resumo
-      2,300.00
+          0.00
 Débitos no Mês :
-         50.15
+      5,536.55
 AltoQi Tecnologia em  Informática LtdaCÂMARA MUNICIPAL DE FLORIANÓPOLIS
 SISTEMAS DE GERENCIAMENTO DO GABINETE PARLAMENTAR
 SGGP
 Período :
-01/01/2017
-a01/02/2017
+01/08/2017
+a31/08/2017
 Balancete Dos Vereadores
 Vereador :
 012
@@ -1651,16 +1651,16 @@ Conta
 Anterior
 Acumulado
 Mês
-  2,300.00
+      0.00
 1.00
 CREDITOS
+ 16,100.00
+   16,100.00
       0.00
-    2,300.00
-  2,300.00
 1.01
 COTA MENSAL
-      0.00
-    2,300.00
+ 16,100.00
+   16,100.00
       0.00
 1.02
 OUTROS
@@ -1671,11 +1671,11 @@ OUTROS
 Credito ano anterior
       0.00
         0.00
-    208.94
+    249.53
 2.00
 DEBITOS
-      0.00
-      208.94
+  2,363.72
+    2,613.25
       0.00
 2.01
 Bolsa / Estágio
@@ -1686,26 +1686,26 @@ Bolsa / Estágio
 Passagens
       0.00
         0.00
-      0.00
+      4.97
 2.03
 Telefone Fixo (GVT)
-      0.00
-        0.00
+     67.32
+       72.29
       0.00
 2.04
 Xerox
-      0.00
-        0.00
+      3.50
+        3.50
       0.00
 2.05
 Correio
       0.00
         0.00
-    208.94
+     54.94
 2.06
 Material de Expediente
-      0.00
-      208.94
+    925.18
+      980.12
       0.00
 2.07
 Diárias
@@ -1716,26 +1716,26 @@ Diárias
 Gratificação
       0.00
         0.00
-      0.00
+     94.81
 2.09
 OUTROS
-      0.00
-        0.00
+    568.86
+      663.67
       0.00
 2.10
 Selos
-      0.00
-        0.00
+    230.00
+      230.00
       0.00
 2.11
 Serviços
       0.00
         0.00
-      0.00
+     94.81
 2.12
 Telefone - TIM
-      0.00
-        0.00
+    568.86
+      663.67
       0.00
 2.13
 Cursos
@@ -1747,20 +1747,20 @@ Carimbos
       0.00
         0.00
 Saldo Anterior :
-          0.00
+     13,736.28
 Saldo Acumulado:
-      2,091.06
+     13,486.75
 Créditos no Mês :
 Resumo
-      2,300.00
+          0.00
 Débitos no Mês :
-        208.94
+        249.53
 AltoQi Tecnologia em  Informática LtdaCÂMARA MUNICIPAL DE FLORIANÓPOLIS
 SISTEMAS DE GERENCIAMENTO DO GABINETE PARLAMENTAR
 SGGP
 Período :
-01/01/2017
-a01/02/2017
+01/08/2017
+a31/08/2017
 Balancete Dos Vereadores
       0.00
 2.15
@@ -1778,20 +1778,20 @@ Jornal / Revista
       0.00
         0.00
 Saldo Anterior :
-          0.00
+     13,736.28
 Saldo Acumulado:
-      2,091.06
+     13,486.75
 Créditos no Mês :
 Resumo
-      2,300.00
+          0.00
 Débitos no Mês :
-        208.94
+        249.53
 AltoQi Tecnologia em  Informática LtdaCÂMARA MUNICIPAL DE FLORIANÓPOLIS
 SISTEMAS DE GERENCIAMENTO DO GABINETE PARLAMENTAR
 SGGP
 Período :
-01/01/2017
-a01/02/2017
+01/08/2017
+a31/08/2017
 Balancete Dos Vereadores
 Vereador :
 013
@@ -1800,16 +1800,16 @@ Conta
 Anterior
 Acumulado
 Mês
-  2,300.00
+      0.00
 1.00
 CREDITOS
+ 16,100.00
+   16,100.00
       0.00
-    2,300.00
-  2,300.00
 1.01
 COTA MENSAL
-      0.00
-    2,300.00
+ 16,100.00
+   16,100.00
       0.00
 1.02
 OUTROS
@@ -1820,11 +1820,11 @@ OUTROS
 Credito ano anterior
       0.00
         0.00
-    583.84
+    248.71
 2.00
 DEBITOS
-      0.00
-      583.84
+  3,331.91
+    3,580.62
       0.00
 2.01
 Bolsa / Estágio
@@ -1835,26 +1835,26 @@ Bolsa / Estágio
 Passagens
       0.00
         0.00
-      0.00
+     15.39
 2.03
 Telefone Fixo (GVT)
-      0.00
-        0.00
-      0.00
+     76.99
+       92.38
+     43.70
 2.04
 Xerox
-      0.00
-        0.00
+    315.20
+      358.90
       0.00
 2.05
 Correio
       0.00
         0.00
-    118.42
+      0.00
 2.06
 Material de Expediente
-      0.00
-      118.42
+    991.58
+      991.58
       0.00
 2.07
 Diárias
@@ -1865,26 +1865,26 @@ Diárias
 Gratificação
       0.00
         0.00
-    152.35
+     94.81
 2.09
 OUTROS
-      0.00
-      152.35
+    721.21
+      816.02
       0.00
 2.10
 Selos
-      0.00
-        0.00
+    345.00
+      345.00
       0.00
 2.11
 Serviços
       0.00
         0.00
-    313.07
+     94.81
 2.12
 Telefone - TIM
-      0.00
-      313.07
+    881.93
+      976.74
       0.00
 2.13
 Cursos
@@ -1896,20 +1896,20 @@ Carimbos
       0.00
         0.00
 Saldo Anterior :
-          0.00
+     12,768.09
 Saldo Acumulado:
-      1,716.16
+     12,519.38
 Créditos no Mês :
 Resumo
-      2,300.00
+          0.00
 Débitos no Mês :
-        583.84
+        248.71
 AltoQi Tecnologia em  Informática LtdaCÂMARA MUNICIPAL DE FLORIANÓPOLIS
 SISTEMAS DE GERENCIAMENTO DO GABINETE PARLAMENTAR
 SGGP
 Período :
-01/01/2017
-a01/02/2017
+01/08/2017
+a31/08/2017
 Balancete Dos Vereadores
       0.00
 2.15
@@ -1927,20 +1927,20 @@ Jornal / Revista
       0.00
         0.00
 Saldo Anterior :
-          0.00
+     12,768.09
 Saldo Acumulado:
-      1,716.16
+     12,519.38
 Créditos no Mês :
 Resumo
-      2,300.00
+          0.00
 Débitos no Mês :
-        583.84
+        248.71
 AltoQi Tecnologia em  Informática LtdaCÂMARA MUNICIPAL DE FLORIANÓPOLIS
 SISTEMAS DE GERENCIAMENTO DO GABINETE PARLAMENTAR
 SGGP
 Período :
-01/01/2017
-a01/02/2017
+01/08/2017
+a31/08/2017
 Balancete Dos Vereadores
 Vereador :
 014
@@ -1949,16 +1949,16 @@ Conta
 Anterior
 Acumulado
 Mês
-  2,300.00
+      0.00
 1.00
 CREDITOS
+ 16,100.00
+   16,100.00
       0.00
-    2,300.00
-  2,300.00
 1.01
 COTA MENSAL
-      0.00
-    2,300.00
+ 16,100.00
+   16,100.00
       0.00
 1.02
 OUTROS
@@ -1969,11 +1969,11 @@ OUTROS
 Credito ano anterior
       0.00
         0.00
-    371.39
+    153.74
 2.00
 DEBITOS
-      0.00
-      371.39
+  1,732.52
+    1,886.26
       0.00
 2.01
 Bolsa / Estágio
@@ -1984,26 +1984,26 @@ Bolsa / Estágio
 Passagens
       0.00
         0.00
-      0.00
+      9.36
 2.03
 Telefone Fixo (GVT)
-      0.00
-        0.00
+     53.43
+       62.79
       0.00
 2.04
 Xerox
-      0.00
-        0.00
+     15.10
+       15.10
       0.00
 2.05
 Correio
       0.00
         0.00
-    313.89
+    144.38
 2.06
 Material de Expediente
-      0.00
-      313.89
+  1,548.99
+    1,693.37
       0.00
 2.07
 Diárias
@@ -2019,11 +2019,11 @@ Gratificação
 OUTROS
       0.00
         0.00
-     57.50
+      0.00
 2.10
 Selos
-      0.00
-       57.50
+    115.00
+      115.00
       0.00
 2.11
 Serviços
@@ -2045,20 +2045,20 @@ Carimbos
       0.00
         0.00
 Saldo Anterior :
-          0.00
+     14,367.48
 Saldo Acumulado:
-      1,928.61
+     14,213.74
 Créditos no Mês :
 Resumo
-      2,300.00
+          0.00
 Débitos no Mês :
-        371.39
+        153.74
 AltoQi Tecnologia em  Informática LtdaCÂMARA MUNICIPAL DE FLORIANÓPOLIS
 SISTEMAS DE GERENCIAMENTO DO GABINETE PARLAMENTAR
 SGGP
 Período :
-01/01/2017
-a01/02/2017
+01/08/2017
+a31/08/2017
 Balancete Dos Vereadores
       0.00
 2.15
@@ -2076,20 +2076,20 @@ Jornal / Revista
       0.00
         0.00
 Saldo Anterior :
-          0.00
+     14,367.48
 Saldo Acumulado:
-      1,928.61
+     14,213.74
 Créditos no Mês :
 Resumo
-      2,300.00
+          0.00
 Débitos no Mês :
-        371.39
+        153.74
 AltoQi Tecnologia em  Informática LtdaCÂMARA MUNICIPAL DE FLORIANÓPOLIS
 SISTEMAS DE GERENCIAMENTO DO GABINETE PARLAMENTAR
 SGGP
 Período :
-01/01/2017
-a01/02/2017
+01/08/2017
+a31/08/2017
 Balancete Dos Vereadores
 Vereador :
 015
@@ -2098,16 +2098,16 @@ Conta
 Anterior
 Acumulado
 Mês
-  2,300.00
+      0.00
 1.00
 CREDITOS
+ 16,100.00
+   16,100.00
       0.00
-    2,300.00
-  2,300.00
 1.01
 COTA MENSAL
-      0.00
-    2,300.00
+ 16,100.00
+   16,100.00
       0.00
 1.02
 OUTROS
@@ -2118,11 +2118,11 @@ OUTROS
 Credito ano anterior
       0.00
         0.00
-    251.71
+    651.28
 2.00
 DEBITOS
-      0.00
-      251.71
+  2,522.61
+    3,173.89
       0.00
 2.01
 Bolsa / Estágio
@@ -2133,26 +2133,26 @@ Bolsa / Estágio
 Passagens
       0.00
         0.00
-      0.00
+     10.69
 2.03
 Telefone Fixo (GVT)
-      0.00
-        0.00
+    128.55
+      139.24
       0.00
 2.04
 Xerox
-      0.00
-        0.00
+     35.80
+       35.80
       0.00
 2.05
 Correio
       0.00
         0.00
-      0.00
+    450.97
 2.06
 Material de Expediente
-      0.00
-        0.00
+    968.83
+    1,419.80
       0.00
 2.07
 Diárias
@@ -2163,11 +2163,11 @@ Diárias
 Gratificação
       0.00
         0.00
-    130.89
+     94.81
 2.09
 OUTROS
-      0.00
-      130.89
+    699.75
+      794.56
       0.00
 2.10
 Selos
@@ -2178,11 +2178,11 @@ Selos
 Serviços
       0.00
         0.00
-    120.82
+     94.81
 2.12
 Telefone - TIM
-      0.00
-      120.82
+    689.68
+      784.49
       0.00
 2.13
 Cursos
@@ -2194,20 +2194,20 @@ Carimbos
       0.00
         0.00
 Saldo Anterior :
-          0.00
+     13,577.39
 Saldo Acumulado:
-      2,048.29
+     12,926.11
 Créditos no Mês :
 Resumo
-      2,300.00
+          0.00
 Débitos no Mês :
-        251.71
+        651.28
 AltoQi Tecnologia em  Informática LtdaCÂMARA MUNICIPAL DE FLORIANÓPOLIS
 SISTEMAS DE GERENCIAMENTO DO GABINETE PARLAMENTAR
 SGGP
 Período :
-01/01/2017
-a01/02/2017
+01/08/2017
+a31/08/2017
 Balancete Dos Vereadores
       0.00
 2.15
@@ -2225,20 +2225,20 @@ Jornal / Revista
       0.00
         0.00
 Saldo Anterior :
-          0.00
+     13,577.39
 Saldo Acumulado:
-      2,048.29
+     12,926.11
 Créditos no Mês :
 Resumo
-      2,300.00
+          0.00
 Débitos no Mês :
-        251.71
+        651.28
 AltoQi Tecnologia em  Informática LtdaCÂMARA MUNICIPAL DE FLORIANÓPOLIS
 SISTEMAS DE GERENCIAMENTO DO GABINETE PARLAMENTAR
 SGGP
 Período :
-01/01/2017
-a01/02/2017
+01/08/2017
+a31/08/2017
 Balancete Dos Vereadores
 Vereador :
 016
@@ -2247,16 +2247,16 @@ Conta
 Anterior
 Acumulado
 Mês
-  2,300.00
+      0.00
 1.00
 CREDITOS
+ 16,100.00
+   16,100.00
       0.00
-    2,300.00
-  2,300.00
 1.01
 COTA MENSAL
-      0.00
-    2,300.00
+ 16,100.00
+   16,100.00
       0.00
 1.02
 OUTROS
@@ -2267,11 +2267,11 @@ OUTROS
 Credito ano anterior
       0.00
         0.00
-    712.32
+    103.01
 2.00
 DEBITOS
-      0.00
-      712.32
+  2,089.91
+    2,192.92
       0.00
 2.01
 Bolsa / Estágio
@@ -2282,26 +2282,26 @@ Bolsa / Estágio
 Passagens
       0.00
         0.00
-      0.00
+      8.20
 2.03
 Telefone Fixo (GVT)
-      0.00
-        0.00
+     75.14
+       83.34
       0.00
 2.04
 Xerox
-      0.00
-        0.00
+     35.00
+       35.00
       0.00
 2.05
 Correio
       0.00
         0.00
-    712.32
+      0.00
 2.06
 Material de Expediente
-      0.00
-      712.32
+  1,505.72
+    1,505.72
       0.00
 2.07
 Diárias
@@ -2327,11 +2327,11 @@ Selos
 Serviços
       0.00
         0.00
-      0.00
+     94.81
 2.12
 Telefone - TIM
-      0.00
-        0.00
+    474.05
+      568.86
       0.00
 2.13
 Cursos
@@ -2343,20 +2343,20 @@ Carimbos
       0.00
         0.00
 Saldo Anterior :
-          0.00
+     14,010.09
 Saldo Acumulado:
-      1,587.68
+     13,907.08
 Créditos no Mês :
 Resumo
-      2,300.00
+          0.00
 Débitos no Mês :
-        712.32
+        103.01
 AltoQi Tecnologia em  Informática LtdaCÂMARA MUNICIPAL DE FLORIANÓPOLIS
 SISTEMAS DE GERENCIAMENTO DO GABINETE PARLAMENTAR
 SGGP
 Período :
-01/01/2017
-a01/02/2017
+01/08/2017
+a31/08/2017
 Balancete Dos Vereadores
       0.00
 2.15
@@ -2374,20 +2374,20 @@ Jornal / Revista
       0.00
         0.00
 Saldo Anterior :
-          0.00
+     14,010.09
 Saldo Acumulado:
-      1,587.68
+     13,907.08
 Créditos no Mês :
 Resumo
-      2,300.00
+          0.00
 Débitos no Mês :
-        712.32
+        103.01
 AltoQi Tecnologia em  Informática LtdaCÂMARA MUNICIPAL DE FLORIANÓPOLIS
 SISTEMAS DE GERENCIAMENTO DO GABINETE PARLAMENTAR
 SGGP
 Período :
-01/01/2017
-a01/02/2017
+01/08/2017
+a31/08/2017
 Balancete Dos Vereadores
 Vereador :
 017
@@ -2396,16 +2396,16 @@ Conta
 Anterior
 Acumulado
 Mês
-  2,300.00
+      0.00
 1.00
 CREDITOS
+ 16,100.00
+   16,100.00
       0.00
-    2,300.00
-  2,300.00
 1.01
 COTA MENSAL
-      0.00
-    2,300.00
+ 16,100.00
+   16,100.00
       0.00
 1.02
 OUTROS
@@ -2416,11 +2416,11 @@ OUTROS
 Credito ano anterior
       0.00
         0.00
-    390.40
+     83.98
 2.00
 DEBITOS
-      0.00
-      390.40
+  1,070.39
+    1,154.37
       0.00
 2.01
 Bolsa / Estágio
@@ -2431,26 +2431,26 @@ Bolsa / Estágio
 Passagens
       0.00
         0.00
-      0.00
+      6.15
 2.03
 Telefone Fixo (GVT)
-      0.00
-        0.00
+    159.65
+      165.80
       0.00
 2.04
 Xerox
-      0.00
-        0.00
+      8.00
+        8.00
       0.00
 2.05
 Correio
       0.00
         0.00
-    390.40
+     77.83
 2.06
 Material de Expediente
-      0.00
-      390.40
+    902.74
+      980.57
       0.00
 2.07
 Diárias
@@ -2492,20 +2492,20 @@ Carimbos
       0.00
         0.00
 Saldo Anterior :
-          0.00
+     15,029.61
 Saldo Acumulado:
-      1,909.60
+     14,945.63
 Créditos no Mês :
 Resumo
-      2,300.00
+          0.00
 Débitos no Mês :
-        390.40
+         83.98
 AltoQi Tecnologia em  Informática LtdaCÂMARA MUNICIPAL DE FLORIANÓPOLIS
 SISTEMAS DE GERENCIAMENTO DO GABINETE PARLAMENTAR
 SGGP
 Período :
-01/01/2017
-a01/02/2017
+01/08/2017
+a31/08/2017
 Balancete Dos Vereadores
       0.00
 2.15
@@ -2523,20 +2523,20 @@ Jornal / Revista
       0.00
         0.00
 Saldo Anterior :
-          0.00
+     15,029.61
 Saldo Acumulado:
-      1,909.60
+     14,945.63
 Créditos no Mês :
 Resumo
-      2,300.00
+          0.00
 Débitos no Mês :
-        390.40
+         83.98
 AltoQi Tecnologia em  Informática LtdaCÂMARA MUNICIPAL DE FLORIANÓPOLIS
 SISTEMAS DE GERENCIAMENTO DO GABINETE PARLAMENTAR
 SGGP
 Período :
-01/01/2017
-a01/02/2017
+01/08/2017
+a31/08/2017
 Balancete Dos Vereadores
 Vereador :
 018
@@ -2545,16 +2545,16 @@ Conta
 Anterior
 Acumulado
 Mês
-  2,300.00
+      0.00
 1.00
 CREDITOS
+ 16,100.00
+   16,100.00
       0.00
-    2,300.00
-  2,300.00
 1.01
 COTA MENSAL
-      0.00
-    2,300.00
+ 16,100.00
+   16,100.00
       0.00
 1.02
 OUTROS
@@ -2565,11 +2565,11 @@ OUTROS
 Credito ano anterior
       0.00
         0.00
-    526.51
+      2.92
 2.00
 DEBITOS
-      0.00
-      526.51
+  1,550.16
+    1,553.08
       0.00
 2.01
 Bolsa / Estágio
@@ -2580,11 +2580,11 @@ Bolsa / Estágio
 Passagens
       0.00
         0.00
-      0.00
+      2.92
 2.03
 Telefone Fixo (GVT)
-      0.00
-        0.00
+     49.15
+       52.07
       0.00
 2.04
 Xerox
@@ -2595,11 +2595,11 @@ Xerox
 Correio
       0.00
         0.00
-    526.51
+      0.00
 2.06
 Material de Expediente
-      0.00
-      526.51
+  1,041.01
+    1,041.01
       0.00
 2.07
 Diárias
@@ -2618,8 +2618,8 @@ OUTROS
       0.00
 2.10
 Selos
-      0.00
-        0.00
+    460.00
+      460.00
       0.00
 2.11
 Serviços
@@ -2641,20 +2641,20 @@ Carimbos
       0.00
         0.00
 Saldo Anterior :
-          0.00
+     14,549.84
 Saldo Acumulado:
-      1,773.49
+     14,546.92
 Créditos no Mês :
 Resumo
-      2,300.00
+          0.00
 Débitos no Mês :
-        526.51
+          2.92
 AltoQi Tecnologia em  Informática LtdaCÂMARA MUNICIPAL DE FLORIANÓPOLIS
 SISTEMAS DE GERENCIAMENTO DO GABINETE PARLAMENTAR
 SGGP
 Período :
-01/01/2017
-a01/02/2017
+01/08/2017
+a31/08/2017
 Balancete Dos Vereadores
       0.00
 2.15
@@ -2672,20 +2672,20 @@ Jornal / Revista
       0.00
         0.00
 Saldo Anterior :
-          0.00
+     14,549.84
 Saldo Acumulado:
-      1,773.49
+     14,546.92
 Créditos no Mês :
 Resumo
-      2,300.00
+          0.00
 Débitos no Mês :
-        526.51
+          2.92
 AltoQi Tecnologia em  Informática LtdaCÂMARA MUNICIPAL DE FLORIANÓPOLIS
 SISTEMAS DE GERENCIAMENTO DO GABINETE PARLAMENTAR
 SGGP
 Período :
-01/01/2017
-a01/02/2017
+01/08/2017
+a31/08/2017
 Balancete Dos Vereadores
 Vereador :
 019
@@ -2694,16 +2694,16 @@ Conta
 Anterior
 Acumulado
 Mês
-  2,300.00
+      0.00
 1.00
 CREDITOS
+ 16,100.00
+   16,100.00
       0.00
-    2,300.00
-  2,300.00
 1.01
 COTA MENSAL
-      0.00
-    2,300.00
+ 16,100.00
+   16,100.00
       0.00
 1.02
 OUTROS
@@ -2714,11 +2714,11 @@ OUTROS
 Credito ano anterior
       0.00
         0.00
-     94.81
+      6.96
 2.00
 DEBITOS
-      0.00
-       94.81
+    808.60
+      815.56
       0.00
 2.01
 Bolsa / Estágio
@@ -2729,16 +2729,16 @@ Bolsa / Estágio
 Passagens
       0.00
         0.00
-      0.00
+      6.96
 2.03
 Telefone Fixo (GVT)
-      0.00
-        0.00
+    101.71
+      108.67
       0.00
 2.04
 Xerox
-      0.00
-        0.00
+      4.00
+        4.00
       0.00
 2.05
 Correio
@@ -2747,8 +2747,8 @@ Correio
       0.00
 2.06
 Material de Expediente
-      0.00
-        0.00
+    228.84
+      228.84
       0.00
 2.07
 Diárias
@@ -2774,11 +2774,11 @@ Selos
 Serviços
       0.00
         0.00
-     94.81
+      0.00
 2.12
 Telefone - TIM
-      0.00
-       94.81
+    474.05
+      474.05
       0.00
 2.13
 Cursos
@@ -2790,20 +2790,20 @@ Carimbos
       0.00
         0.00
 Saldo Anterior :
-          0.00
+     15,291.40
 Saldo Acumulado:
-      2,205.19
+     15,284.44
 Créditos no Mês :
 Resumo
-      2,300.00
+          0.00
 Débitos no Mês :
-         94.81
+          6.96
 AltoQi Tecnologia em  Informática LtdaCÂMARA MUNICIPAL DE FLORIANÓPOLIS
 SISTEMAS DE GERENCIAMENTO DO GABINETE PARLAMENTAR
 SGGP
 Período :
-01/01/2017
-a01/02/2017
+01/08/2017
+a31/08/2017
 Balancete Dos Vereadores
       0.00
 2.15
@@ -2821,20 +2821,20 @@ Jornal / Revista
       0.00
         0.00
 Saldo Anterior :
-          0.00
+     15,291.40
 Saldo Acumulado:
-      2,205.19
+     15,284.44
 Créditos no Mês :
 Resumo
-      2,300.00
+          0.00
 Débitos no Mês :
-         94.81
+          6.96
 AltoQi Tecnologia em  Informática LtdaCÂMARA MUNICIPAL DE FLORIANÓPOLIS
 SISTEMAS DE GERENCIAMENTO DO GABINETE PARLAMENTAR
 SGGP
 Período :
-01/01/2017
-a01/02/2017
+01/08/2017
+a31/08/2017
 Balancete Dos Vereadores
 Vereador :
 020
@@ -2843,16 +2843,16 @@ Conta
 Anterior
 Acumulado
 Mês
-  2,300.00
+      0.00
 1.00
 CREDITOS
+ 16,100.00
+   16,100.00
       0.00
-    2,300.00
-  2,300.00
 1.01
 COTA MENSAL
-      0.00
-    2,300.00
+ 16,100.00
+   16,100.00
       0.00
 1.02
 OUTROS
@@ -2863,11 +2863,11 @@ OUTROS
 Credito ano anterior
       0.00
         0.00
-    280.46
+     19.45
 2.00
 DEBITOS
-      0.00
-      280.46
+  1,209.57
+    1,229.02
       0.00
 2.01
 Bolsa / Estágio
@@ -2878,11 +2878,11 @@ Bolsa / Estágio
 Passagens
       0.00
         0.00
-      0.00
+      0.44
 2.03
 Telefone Fixo (GVT)
-      0.00
-        0.00
+     41.20
+       41.64
       0.00
 2.04
 Xerox
@@ -2893,11 +2893,11 @@ Xerox
 Correio
       0.00
         0.00
-    280.46
+     19.01
 2.06
 Material de Expediente
-      0.00
-      280.46
+  1,168.37
+    1,187.38
       0.00
 2.07
 Diárias
@@ -2939,20 +2939,20 @@ Carimbos
       0.00
         0.00
 Saldo Anterior :
-          0.00
+     14,890.43
 Saldo Acumulado:
-      2,019.54
+     14,870.98
 Créditos no Mês :
 Resumo
-      2,300.00
+          0.00
 Débitos no Mês :
-        280.46
+         19.45
 AltoQi Tecnologia em  Informática LtdaCÂMARA MUNICIPAL DE FLORIANÓPOLIS
 SISTEMAS DE GERENCIAMENTO DO GABINETE PARLAMENTAR
 SGGP
 Período :
-01/01/2017
-a01/02/2017
+01/08/2017
+a31/08/2017
 Balancete Dos Vereadores
       0.00
 2.15
@@ -2970,20 +2970,20 @@ Jornal / Revista
       0.00
         0.00
 Saldo Anterior :
-          0.00
+     14,890.43
 Saldo Acumulado:
-      2,019.54
+     14,870.98
 Créditos no Mês :
 Resumo
-      2,300.00
+          0.00
 Débitos no Mês :
-        280.46
+         19.45
 AltoQi Tecnologia em  Informática LtdaCÂMARA MUNICIPAL DE FLORIANÓPOLIS
 SISTEMAS DE GERENCIAMENTO DO GABINETE PARLAMENTAR
 SGGP
 Período :
-01/01/2017
-a01/02/2017
+01/08/2017
+a31/08/2017
 Balancete Dos Vereadores
 Vereador :
 021
@@ -2992,16 +2992,16 @@ Conta
 Anterior
 Acumulado
 Mês
-  2,300.00
+      0.00
 1.00
 CREDITOS
+ 16,100.00
+   16,100.00
       0.00
-    2,300.00
-  2,300.00
 1.01
 COTA MENSAL
-      0.00
-    2,300.00
+ 16,100.00
+   16,100.00
       0.00
 1.02
 OUTROS
@@ -3012,11 +3012,11 @@ OUTROS
 Credito ano anterior
       0.00
         0.00
-      0.00
+     40.76
 2.00
 DEBITOS
-      0.00
-        0.00
+     53.54
+       94.30
       0.00
 2.01
 Bolsa / Estágio
@@ -3027,16 +3027,16 @@ Bolsa / Estágio
 Passagens
       0.00
         0.00
-      0.00
+      7.16
 2.03
 Telefone Fixo (GVT)
-      0.00
-        0.00
-      0.00
+     40.04
+       47.20
+     33.60
 2.04
 Xerox
-      0.00
-        0.00
+     13.50
+       47.10
       0.00
 2.05
 Correio
@@ -3088,20 +3088,20 @@ Carimbos
       0.00
         0.00
 Saldo Anterior :
-          0.00
+     16,046.46
 Saldo Acumulado:
-      2,300.00
+     16,005.70
 Créditos no Mês :
 Resumo
-      2,300.00
-Débitos no Mês :
           0.00
+Débitos no Mês :
+         40.76
 AltoQi Tecnologia em  Informática LtdaCÂMARA MUNICIPAL DE FLORIANÓPOLIS
 SISTEMAS DE GERENCIAMENTO DO GABINETE PARLAMENTAR
 SGGP
 Período :
-01/01/2017
-a01/02/2017
+01/08/2017
+a31/08/2017
 Balancete Dos Vereadores
       0.00
 2.15
@@ -3119,20 +3119,20 @@ Jornal / Revista
       0.00
         0.00
 Saldo Anterior :
-          0.00
+     16,046.46
 Saldo Acumulado:
-      2,300.00
+     16,005.70
 Créditos no Mês :
 Resumo
-      2,300.00
-Débitos no Mês :
           0.00
+Débitos no Mês :
+         40.76
 AltoQi Tecnologia em  Informática LtdaCÂMARA MUNICIPAL DE FLORIANÓPOLIS
 SISTEMAS DE GERENCIAMENTO DO GABINETE PARLAMENTAR
 SGGP
 Período :
-01/01/2017
-a01/02/2017
+01/08/2017
+a31/08/2017
 Balancete Dos Vereadores
 Vereador :
 022
@@ -3141,16 +3141,16 @@ Conta
 Anterior
 Acumulado
 Mês
-  2,300.00
+      0.00
 1.00
 CREDITOS
+ 16,100.00
+   16,100.00
       0.00
-    2,300.00
-  2,300.00
 1.01
 COTA MENSAL
-      0.00
-    2,300.00
+ 16,100.00
+   16,100.00
       0.00
 1.02
 OUTROS
@@ -3161,11 +3161,11 @@ OUTROS
 Credito ano anterior
       0.00
         0.00
-    588.22
+    631.64
 2.00
 DEBITOS
-      0.00
-      588.22
+  6,860.63
+    7,492.27
       0.00
 2.01
 Bolsa / Estágio
@@ -3176,26 +3176,26 @@ Bolsa / Estágio
 Passagens
       0.00
         0.00
-      0.00
+    100.10
 2.03
 Telefone Fixo (GVT)
-      0.00
-        0.00
+    260.12
+      360.22
       0.00
 2.04
 Xerox
-      0.00
-        0.00
+     11.80
+       11.80
       0.00
 2.05
 Correio
       0.00
         0.00
-     79.92
+    341.92
 2.06
 Material de Expediente
-      0.00
-       79.92
+  1,587.50
+    1,929.42
       0.00
 2.07
 Diárias
@@ -3206,26 +3206,26 @@ Diárias
 Gratificação
       0.00
         0.00
-    145.56
+     94.81
 2.09
 OUTROS
-      0.00
-      145.56
+    714.42
+      809.23
       0.00
 2.10
 Selos
-      0.00
-        0.00
+  3,450.00
+    3,450.00
       0.00
 2.11
 Serviços
       0.00
         0.00
-    362.74
+     94.81
 2.12
 Telefone - TIM
-      0.00
-      362.74
+    836.79
+      931.60
       0.00
 2.13
 Cursos
@@ -3237,20 +3237,20 @@ Carimbos
       0.00
         0.00
 Saldo Anterior :
-          0.00
+      9,239.37
 Saldo Acumulado:
-      1,711.78
+      8,607.73
 Créditos no Mês :
 Resumo
-      2,300.00
+          0.00
 Débitos no Mês :
-        588.22
+        631.64
 AltoQi Tecnologia em  Informática LtdaCÂMARA MUNICIPAL DE FLORIANÓPOLIS
 SISTEMAS DE GERENCIAMENTO DO GABINETE PARLAMENTAR
 SGGP
 Período :
-01/01/2017
-a01/02/2017
+01/08/2017
+a31/08/2017
 Balancete Dos Vereadores
       0.00
 2.15
@@ -3268,20 +3268,20 @@ Jornal / Revista
       0.00
         0.00
 Saldo Anterior :
-          0.00
+      9,239.37
 Saldo Acumulado:
-      1,711.78
+      8,607.73
 Créditos no Mês :
 Resumo
-      2,300.00
+          0.00
 Débitos no Mês :
-        588.22
+        631.64
 AltoQi Tecnologia em  Informática LtdaCÂMARA MUNICIPAL DE FLORIANÓPOLIS
 SISTEMAS DE GERENCIAMENTO DO GABINETE PARLAMENTAR
 SGGP
 Período :
-01/01/2017
-a01/02/2017
+01/08/2017
+a31/08/2017
 Balancete Dos Vereadores
 Vereador :
 023
@@ -3290,16 +3290,16 @@ Conta
 Anterior
 Acumulado
 Mês
-  2,300.00
+      0.00
 1.00
 CREDITOS
+ 16,100.00
+   16,100.00
       0.00
-    2,300.00
-  4,600.00
 1.01
 COTA MENSAL
-      0.00
-    4,600.00
+ 16,100.00
+   16,100.00
       0.00
 1.02
 OUTROS
@@ -3310,11 +3310,11 @@ OUTROS
 Credito ano anterior
       0.00
         0.00
-    269.08
+    424.17
 2.00
 DEBITOS
-      0.00
-      269.08
+  2,721.82
+    3,145.99
       0.00
 2.01
 Bolsa / Estágio
@@ -3325,26 +3325,26 @@ Bolsa / Estágio
 Passagens
       0.00
         0.00
-      0.00
+      5.19
 2.03
 Telefone Fixo (GVT)
-      0.00
-        0.00
+     86.79
+       91.98
       0.00
 2.04
 Xerox
-      0.00
-        0.00
+     13.30
+       13.30
       0.00
 2.05
 Correio
       0.00
         0.00
-      0.00
+    229.36
 2.06
 Material de Expediente
-      0.00
-        0.00
+  1,169.54
+    1,398.90
       0.00
 2.07
 Diárias
@@ -3355,26 +3355,26 @@ Diárias
 Gratificação
       0.00
         0.00
-    189.62
+     94.81
 2.09
 OUTROS
-      0.00
-      189.62
+    663.67
+      758.48
       0.00
 2.10
 Selos
-      0.00
-        0.00
+     45.39
+       45.39
       0.00
 2.11
 Serviços
       0.00
         0.00
-    348.54
+     94.81
 2.12
 Telefone - TIM
-      0.00
-      348.54
+    743.13
+      837.94
       0.00
 2.13
 Cursos
@@ -3386,20 +3386,20 @@ Carimbos
       0.00
         0.00
 Saldo Anterior :
-          0.00
+     13,378.18
 Saldo Acumulado:
-      2,030.92
+     12,954.01
 Créditos no Mês :
 Resumo
-      2,300.00
+          0.00
 Débitos no Mês :
-        269.08
+        424.17
 AltoQi Tecnologia em  Informática LtdaCÂMARA MUNICIPAL DE FLORIANÓPOLIS
 SISTEMAS DE GERENCIAMENTO DO GABINETE PARLAMENTAR
 SGGP
 Período :
-01/01/2017
-a01/02/2017
+01/08/2017
+a31/08/2017
 Balancete Dos Vereadores
       0.00
 2.15
@@ -3417,20 +3417,20 @@ Jornal / Revista
       0.00
         0.00
 Saldo Anterior :
-          0.00
+     13,378.18
 Saldo Acumulado:
-      2,030.92
+     12,954.01
 Créditos no Mês :
 Resumo
-      2,300.00
+          0.00
 Débitos no Mês :
-        269.08
+        424.17
 AltoQi Tecnologia em  Informática LtdaCÂMARA MUNICIPAL DE FLORIANÓPOLIS
 SISTEMAS DE GERENCIAMENTO DO GABINETE PARLAMENTAR
 SGGP
 Período :
-01/01/2017
-a01/02/2017
+01/08/2017
+a31/08/2017
 Balancete Dos Vereadores
 Vereador :
 024
@@ -3439,15 +3439,15 @@ Conta
 Anterior
 Acumulado
 Mês
-  2,300.00
+      0.00
 1.00
 CREDITOS
-      0.00
-    2,300.00
   2,300.00
+    2,300.00
+      0.00
 1.01
 COTA MENSAL
-      0.00
+  2,300.00
     2,300.00
       0.00
 1.02
@@ -3459,10 +3459,10 @@ OUTROS
 Credito ano anterior
       0.00
         0.00
-    255.79
+      0.00
 2.00
 DEBITOS
-      0.00
+    255.79
       255.79
       0.00
 2.01
@@ -3504,10 +3504,10 @@ Diárias
 Gratificação
       0.00
         0.00
-    145.43
+      0.00
 2.09
 OUTROS
-      0.00
+    145.43
       145.43
       0.00
 2.10
@@ -3519,10 +3519,10 @@ Selos
 Serviços
       0.00
         0.00
-    110.36
+      0.00
 2.12
 Telefone - TIM
-      0.00
+    110.36
       110.36
       0.00
 2.13
@@ -3535,20 +3535,20 @@ Carimbos
       0.00
         0.00
 Saldo Anterior :
-          0.00
+      2,044.21
 Saldo Acumulado:
       2,044.21
 Créditos no Mês :
 Resumo
-      2,300.00
+          0.00
 Débitos no Mês :
-        255.79
+          0.00
 AltoQi Tecnologia em  Informática LtdaCÂMARA MUNICIPAL DE FLORIANÓPOLIS
 SISTEMAS DE GERENCIAMENTO DO GABINETE PARLAMENTAR
 SGGP
 Período :
-01/01/2017
-a01/02/2017
+01/08/2017
+a31/08/2017
 Balancete Dos Vereadores
       0.00
 2.15
@@ -3566,20 +3566,20 @@ Jornal / Revista
       0.00
         0.00
 Saldo Anterior :
-          0.00
+      2,044.21
 Saldo Acumulado:
       2,044.21
 Créditos no Mês :
 Resumo
-      2,300.00
+          0.00
 Débitos no Mês :
-        255.79
+          0.00
 AltoQi Tecnologia em  Informática LtdaCÂMARA MUNICIPAL DE FLORIANÓPOLIS
 SISTEMAS DE GERENCIAMENTO DO GABINETE PARLAMENTAR
 SGGP
 Período :
-01/01/2017
-a01/02/2017
+01/08/2017
+a31/08/2017
 Balancete Dos Vereadores
 Vereador :
 025
@@ -3588,31 +3588,31 @@ Conta
 Anterior
 Acumulado
 Mês
-  2,300.00
+      0.00
 1.00
 CREDITOS
+ 15,901.88
+   15,901.88
       0.00
-    2,300.00
-  2,300.00
 1.01
 COTA MENSAL
-      0.00
-    2,300.00
+  9,200.00
+    9,200.00
       0.00
 1.02
 OUTROS
-      0.00
-        0.00
+  6,701.88
+    6,701.88
       0.00
 1.03
 Credito ano anterior
       0.00
         0.00
-     95.55
+    176.82
 2.00
 DEBITOS
-      0.00
-       95.55
+    594.52
+      771.34
       0.00
 2.01
 Bolsa / Estágio
@@ -3623,11 +3623,11 @@ Bolsa / Estágio
 Passagens
       0.00
         0.00
-      0.00
+     16.26
 2.03
 Telefone Fixo (GVT)
-      0.00
-        0.00
+     19.26
+       35.52
       0.00
 2.04
 Xerox
@@ -3638,11 +3638,11 @@ Xerox
 Correio
       0.00
         0.00
-      0.00
+     65.75
 2.06
 Material de Expediente
-      0.00
-        0.00
+    290.09
+      355.84
       0.00
 2.07
 Diárias
@@ -3668,11 +3668,11 @@ Selos
 Serviços
       0.00
         0.00
-     95.55
+     94.81
 2.12
 Telefone - TIM
-      0.00
-       95.55
+    285.17
+      379.98
       0.00
 2.13
 Cursos
@@ -3684,20 +3684,20 @@ Carimbos
       0.00
         0.00
 Saldo Anterior :
-          0.00
+     15,307.36
 Saldo Acumulado:
-      2,204.45
+     15,130.54
 Créditos no Mês :
 Resumo
-      2,300.00
+          0.00
 Débitos no Mês :
-         95.55
+        176.82
 AltoQi Tecnologia em  Informática LtdaCÂMARA MUNICIPAL DE FLORIANÓPOLIS
 SISTEMAS DE GERENCIAMENTO DO GABINETE PARLAMENTAR
 SGGP
 Período :
-01/01/2017
-a01/02/2017
+01/08/2017
+a31/08/2017
 Balancete Dos Vereadores
       0.00
 2.15
@@ -3715,12 +3715,12 @@ Jornal / Revista
       0.00
         0.00
 Saldo Anterior :
-          0.00
+     15,307.36
 Saldo Acumulado:
-      2,204.45
+     15,130.54
 Créditos no Mês :
 Resumo
-      2,300.00
+          0.00
 Débitos no Mês :
-         95.55
+        176.82
 AltoQi Tecnologia em  Informática Ltda
