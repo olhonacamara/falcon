@@ -16,7 +16,7 @@ num_arquivos = len([f for f in os.listdir(diretorio)
 print ('######################')
 print ('##### Falcon v.2 #####')
 print ('######################')
-print ('Total de arquivos: ' + `num_arquivos`)
+print ('Total de arquivos: ' + repr(num_arquivos))
 
 totalPages = 0
 for arquivo in arquivos:
@@ -37,5 +37,5 @@ for arquivo in arquivos:
     filePdf.close()
     newTxtFile.close()
 
-print('Total de paginas convertidas: ' + `totalPages`)
+print('Total de paginas convertidas: ' + repr(totalPages))
 
