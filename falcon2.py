@@ -4,39 +4,38 @@ from os import listdir
 from os.path import isfile, join
 
 
-diretorio = './sggp_relatorios/2017/test/'
+diretorio = './sggp_relatorios/2017/'
 
 # Retorna um array com todos os arquivos contido diretorio especificado.
 arquivos = [f for f in listdir(diretorio) if isfile(join(diretorio, f))]
 
-# Retorna um inteiro com a quantidade de arquivos enontrados.
+# Retorna um inteiro com a quantidade de arquivos encontrados.
 num_arquivos = len([f for f in os.listdir(diretorio)
                 if os.path.isfile(os.path.join(diretorio, f))])
 
-print("Total de arquivos: " + `num_arquivos`)
+print ('######################')
+print ('##### Falcon v.2 #####')
+print ('######################')
+print ('Total de arquivos: ' + `num_arquivos`)
 
+totalPages = 0
 for arquivo in arquivos:
+    print ('Convertendo para TXT: ' + arquivo)
     filePdf = open(diretorio+arquivo, 'rb')
-    pdfreader = PyPDF2.PdfFileReader(filePdf)
-    newTxtFile = open(arquivo.split('.')[0], 'w')
-    print arquivo
+    pdfReader = PyPDF2.PdfFileReader(filePdf)
+    numPages = pdfReader.getNumPages()
+    newTxtFile = open(arquivo.split('.')[0] + '.txt', 'w')
+    totalPages = (totalPages + numPages)
 
 
-#print(os.path.abspath(diretorio))
-#pathFilePdf = 'sggpJaneiro2017.pdf'
-#splitName = pathFilePdf.split('.')
-#print(splitName[0])
+    count = 0
+    while count < numPages:
+        pageobj = pdfReader.getPage(count)
+        newTxtFile.write(pageobj.extractText().encode('utf-8').strip())
+        count += 1
 
-numPages = pdfreader.getNumPages()
-print(numPages)
+    filePdf.close()
+    newTxtFile.close()
 
-newTxtFile=open('sggpJaneiro2017.txt', 'w')
+print('Total de paginas convertidas: ' + `totalPages`)
 
-count = 0
-while count < numPages:
-    pageobj=pdfreader.getPage(count)
-    newTxtFile.write(pageobj.extractText().encode('utf-8').strip())
-    count += 1
-
-filePdf.close()
-newTxtFile.close()
