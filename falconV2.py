@@ -2,9 +2,13 @@ import PyPDF2
 import os.path
 from os import listdir
 from os.path import isfile, join
+import scrapy
+
+# TODO: Acessar site de relatórios e baixar arquivos automaticamente.
 
 
-diretorio = './sggp_relatorios/2017/'
+
+diretorio = './sggp_relatorios/2016/'
 
 # Retorna um array com todos os arquivos contido diretorio especificado.
 arquivos = [f for f in listdir(diretorio) if isfile(join(diretorio, f))]
