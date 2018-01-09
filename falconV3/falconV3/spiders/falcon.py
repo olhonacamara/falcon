@@ -1,21 +1,18 @@
 import scrapy
 
 class FalconSpider(scrapy.Spider):
-    name = 'falcon'
 
-    def start_requests(self):
-        urls = [
-            'http://www.cmf.sc.gov.br/categoria-transparencia/sistema-de-gerenciamento-gabinete-parlamentar-sggp'
-        ]
-        for url in urls:
-            yield scrapy.Request(url=url, callback=self.parse)
+    name = 'falcon'
+    start_urls = [
+        'http://www.cmf.sc.gov.br/categoria-transparencia/sistema-de-gerenciamento-gabinete-parlamentar-sggp'
+    ]
 
     def parse(self, response):
-        page = response.url.split("/")[-2]
-        filename = 'report-%s.html' % page
-        with open(filename, 'wb') as f:
-            f.write(response.body)
-        self.log('Saved file %s' % filename)
+        for report in response.css('div.region-content'):
+            yield {
+                'title': report.xpath('//*[@id="node-8205"]/h2/a/text()'),
+                'url': report.xpath('//*[@id="node-8205"]/h2/a/@href'),
+                'post_date': report.xpath('//*[@id="node-7296"]/div[1]/span/text()[2]'),
+            }
 
 
-    # TODO: Fazer método que retorna as URLS válidas que contém relatórios.
