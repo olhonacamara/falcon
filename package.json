@@ -1,0 +1,25 @@
+{
+  "name": "onc2",
+  "version": "2.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard --env mocha && mocha",
+    "standardFix": "standard --env mocha --fix",
+    "babel": "babel-node index.js"
+  },
+  "author": "danilosetubal <danilosetubal@gmail.com> (https://github.com/danilosetubal)",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.3",
+    "pdf2json": "^1.1.7",
+    "request": "^2.87.0",
+    "request-promise": "^4.2.2"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0",
+    "morgan": "^1.9.0",
+    "standard": "^11.0.1"
+  }
+}
