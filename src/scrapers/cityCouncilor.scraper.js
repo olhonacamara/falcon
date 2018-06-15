@@ -1,12 +1,23 @@
 const rp = require('request-promise')
 const request = require('request')
 const cheerio = require('cheerio')
+const MongoClient = require('mongodb').MongoClient
 
 const token = require('../utils/token.js')
+const url = 'mongodb://localhost:27017/falcon'
 
 const URL_COUNCIL_LIST_CMF = 'http://www.cmf.sc.gov.br/vereadores'
 const URL_CMF = 'http://www.cmf.sc.gov.br'
 const councilorList = []
+
+const save = (list = [], collection) => {
+  return MongoClient.connect(url, (err, db) => {
+    if (err) throw err
+    const dbo = db.db('falcon')
+    const objectsToSave = list
+    dbo.collection(collection).insertMany(objectsToSave)
+  })
+}
 
 const getPropositionType = (protocol) => {
   let shortType = protocol.substring(0, 3)
@@ -119,7 +130,7 @@ const getCityCouncilorProfile = () => {
           councilorList[i].propositions = e.propositions
           councilorList[i].commissions = e.commissions
         })
-        console.log(councilorList)
+        save(councilorList, 'cityCouncilorsProfiles')
       })
     })
     .catch((error) => {
